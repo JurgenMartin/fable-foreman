@@ -25,3 +25,4 @@ Notes and usage details for fable-foreman.
 - fix a small wording issue
 - clarify the setup steps
 - clarify the setup steps
+- clarify the setup steps
